@@ -1,1 +1,0 @@
-este sera mi primer intento usando git con un file de texto
